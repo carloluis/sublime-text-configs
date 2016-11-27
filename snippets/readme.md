@@ -9,4 +9,4 @@
 </code></pre>
 
 <h6>Hints</h6>
-<a href="//sublimetext.info/docs/en/extensibility/snippets.html"> Snippets Doc</a>
+<a href="http://sublimetext.info/docs/en/extensibility/snippets.html"> Snippets Doc</a>
