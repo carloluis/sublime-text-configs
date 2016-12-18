@@ -1,2 +1,5 @@
-<h4>Packages</h4>
-* <a href="https://packagecontrol.io/packages/Babel"> Babel</a>
+## [Packages](https://packagecontrol.io/ "Package Control")
+
+* [Babel](https://packagecontrol.io/packages/Babel "Babel - Package Control")
+* [Emmet](https://packagecontrol.io/packages/Emmet "Emmet - Package Control")
+* [Terminal](https://packagecontrol.io/packages/Terminal "Terminal - Package Control")
