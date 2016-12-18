@@ -4,16 +4,15 @@
 ##Preferences
 ```json
 {
-    "auto_upgrade_ignore":["Seti_UI"], // see hints
+    "auto_upgrade_ignore":["Seti_UI"], //hints
     "theme": "Seti.sublime-theme",
     "color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
     
-    "caret_extra_width": 2,        // to have a wider/thicker caret
+    "caret_extra_width": 2,
     "caret_extra_bottom": 1,
     "caret_extra_top": 1,
     "overlay_scroll_bars": "enabled",
     "highlight_line": true,
-    //...
 }
 ```
 
