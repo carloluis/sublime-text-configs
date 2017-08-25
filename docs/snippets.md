@@ -1,6 +1,8 @@
-## JS console.log snippet
+# Snippets
 
-```html
+## JS console.log
+
+```xml
 <snippet>
     <content><![CDATA[console.log('${1}');]]></content>
     <tabTrigger>cl</tabTrigger>
@@ -9,5 +11,6 @@
 </snippet>
 ```
 
-### Hints
+## More
+
 [Snippets Doc](http://sublimetext.info/docs/en/extensibility/snippets.html "Sublime Text Help")

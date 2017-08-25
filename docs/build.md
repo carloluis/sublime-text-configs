@@ -9,5 +9,6 @@
 }
 ```
 
-### Hints
+## More
+
 [Build Systems Doc](http://sublimetext.info/docs/en/reference/build_systems.html "Sublime Text Help")

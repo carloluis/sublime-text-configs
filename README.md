@@ -1,11 +1,10 @@
-# sublime-text-configs &middot; 
+# sublime-text-configs &middot; ![Sublime Config](https://img.shields.io/badge/sublime-config-orange.svg)
 
-This repo contains my sublime configurations...
+This repo contains my [sublime](https://www.sublimetext.com/3) configurations...
 
-## Topics 
+## Docs 
 
-* [Build System](build.md "readme")
-* [Packages](packages.md "readme")
-* [Snippets](snippets.md "readme")
-* [Theme](theme.md "readme")
-
+* [Build System](docs/build.md "sublime build")
+* [Packages](docs/packages.md "sublime packages")
+* [Snippets](docs/snippets.md "sublime snippets")
+* [Theme](docs/theme.md "sublime theme")
