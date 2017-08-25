@@ -1,7 +1,9 @@
-#Theme
+# Theme
+
 [Seti_UI](https://packagecontrol.io/packages/Seti_UI "Seti_UI in Package Control")
 
-##Preferences
+## Preferences
+
 ```json
 {
     "auto_upgrade_ignore":["Seti_UI"], //hints
@@ -16,9 +18,9 @@
 }
 ```
 
-##Hints:
+## Hints:
 
-* Last version of Seti_UI has not color schemes :( Thats why we must ignore auto_upgrades for this package
+* Last version of *Seti_UI* has not color schemes :( Thats why we must ignore auto_upgrades for this package
 * In order to get back those files go to <https://github.com/ctf0/Seti_ST3/tree/Mods>
 * Copy the `Scheme` folder to your `Packages/Seti_UI` folder
 * Use the previous preferences section as start
